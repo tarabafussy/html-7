@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+header{
+	height:400px;
+	width:100%;
+	background-image:url(img/mv.jpg);
+	background-size:cover;
+	background-position:bottom;
+}
+.page-title{
+	padding:20px 20px;
+}
+
+.box{
+	width:840px;
+	margin:50px auto;
+}
+
+.topic{
+	padding-bottom:30px;
+	padding-top:30px;
+	border-bottom:1px solid black;
+}
